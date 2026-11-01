@@ -15,8 +15,6 @@ Fan-made, not affiliated with VRFS.
 ## How to use
 
 - Type a replay code or paste it with **Ctrl+V**, then press **Enter** or **WATCH**.
-- The screen is locked until a replay starts. After that, **F8** shows and hides it.
-- Going back to the solo practice map locks the screen again until a new code is entered.
 - Click the **star** next to a code (or press **Ctrl+D**) to favorite it. Favorites stay at the top.
 - Click any recent or favorite code to watch it again. **Clear** empties the recent list.
 
