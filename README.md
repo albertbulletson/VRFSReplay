@@ -10,8 +10,7 @@ Fan-made, not affiliated with VRFS.
 
 1. Install MelonLoader into your camera folder (the one with `Camera.exe`) and start the camera once.
 2. Put `VRFSReplay.dll` in `Camera\Mods`.
-3. Remove any older versions from `Mods` (`skuchangerandstuff.dll`, `skuchangerandstuff-replay.dll`).
-4. Start the camera.
+3. Start the camera mod.
 
 ## How to use
 
