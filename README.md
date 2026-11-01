@@ -23,8 +23,5 @@ Fan-made, not affiliated with VRFS.
 
 ## Good to know
 
-- No account or login needed. Replays download the same way as the game's Replays menu.
-- On first start, old replay history from earlier versions is cleared.
-- Settings are in `Camera\UserData\MelonPreferences.cfg` (for example `PanelKey` and `PracticeScenes`).
-- Favorites and recent codes are saved in `Camera\UserData`.
-- If something breaks, send `Camera\MelonLoader\Latest.log`.
+- This is an beta of the mod, expect some bugs
+- Cosmetics will not be seen for now, only some can be seen.
